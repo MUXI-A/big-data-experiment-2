@@ -1,0 +1,27 @@
+aa	<document15.txt,6>;<total,6>.
+aaaa	<document15.txt,2>;<total,2>.
+aaaaaa	<document15.txt,2>;<total,2>.
+aaaab	<document15.txt,1>;<total,1>.
+aaab	<document15.txt,1>;<total,1>.
+ab	<document15.txt,9>;<total,9>.
+aback	<document05.txt,1>;<document07.txt,1>;<document08.txt,1>;<total,3>.
+abaft	<document07.txt,2>;<total,2>.
+abandon	<document04.txt,2>;<document05.txt,1>;<document07.txt,1>;<document09.txt,1>;<document11.txt,2>;<total,7>.
+abandoned	<document03.txt,3>;<document04.txt,3>;<document05.txt,10>;<document07.txt,2>;<document08.txt,2>;<document11.txt,2>;<total,22>.
+abandoning	<document05.txt,1>;<total,1>.
+abandonment	<document05.txt,1>;<document11.txt,1>;<total,2>.
+abandons	<document03.txt,1>;<total,1>.
+abased	<document08.txt,1>;<total,1>.
+abasement	<document07.txt,1>;<total,1>.
+abashed	<document05.txt,1>;<document08.txt,1>;<total,2>.
+abate	<document05.txt,1>;<document11.txt,1>;<total,2>.
+abated	<document05.txt,1>;<document07.txt,1>;<total,2>.
+abatement	<document01.txt,1>;<total,1>.
+abates	<document11.txt,1>;<total,1>.
+
+=== 指定单词的倒排索引 ===
+hadoop	<document13.txt,87>;<document14.txt,32>;<total,119>.
+mapreduce	<document13.txt,112>;<document14.txt,3>;<total,115>.
+index	<document03.txt,2>;<document07.txt,3>;<document15.txt,8>;<total,13>.
+data	<document03.txt,10>;<document07.txt,2>;<document13.txt,16>;<document14.txt,75>;<document15.txt,2>;<total,105>.
+search	<document01.txt,2>;<document02.txt,1>;<document03.txt,11>;<document04.txt,7>;<document05.txt,6>;<document07.txt,27>;<document08.txt,4>;<document09.txt,6>;<document13.txt,2>;<document14.txt,1>;<document15.txt,64>;<total,131>.
